@@ -1,0 +1,1 @@
+React + Vite + i18next Demo
